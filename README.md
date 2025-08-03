@@ -1,5 +1,5 @@
 # ☁️ Cloud-Powered Task Manager  
-A beautiful, full-stack **To-Do Web App** built using **Flask (Python)** and **IBM Cloudant (NoSQL)**.  
+A beautiful, full-stack ** calculator ** built usingand **IBM Cloudant (NoSQL)**.  
 Supports full **CRUD** operations with a clean, modern UI, **dark mode**, and deployed live using **Render**.
 
 ---
@@ -21,8 +21,7 @@ Supports full **CRUD** operations with a clean, modern UI, **dark mode**, and de
 
 | Layer       | Tools Used                        |
 |-------------|-----------------------------------|
-| **Frontend**| HTML, CSS, JavaScript             |
-| **Backend** | Python (Flask)                    |
+| **Frontend**| HTML, CSS, JavaScript             |                   |
 | **Database**| IBM Cloudant NoSQL DB             |
 | **Hosting** | Render (Free Cloud Deployment)    |
 
@@ -31,11 +30,9 @@ Supports full **CRUD** operations with a clean, modern UI, **dark mode**, and de
 ## 📁 Folder Structure
 
 📦 Cloud-Powered-Task-Manager/
-├── app.py # Flask backend with API routes
 ├── index.html # Frontend interface
 ├── style.css # Styling + dark mode
 ├── .env # Cloudant credentials (ignored in GitHub)
-├── requirements.txt # Python dependencies
 
 🌐 Hosted on Render
 This app is deployed using Render with:
@@ -44,9 +41,6 @@ This app is deployed using Render with:
 
 2.Auto-deploy on commit
 
-3.Python 3 + Flask environment
-
 4.IBM Cloudant connection via .env
 
-👑 Author
-Built with 💖 by Itika Kashyap
+
